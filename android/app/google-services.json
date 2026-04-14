@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649587020774",
+    "project_id": "lawdesk-304da",
+    "storage_bucket": "lawdesk-304da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649587020774:android:7c7d8b6cc1c246f4ec3c27",
+        "android_client_info": {
+          "package_name": "com.example.lawdesk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFNgmXM1x4FtsAymyA9Oddkpk49EcQSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
